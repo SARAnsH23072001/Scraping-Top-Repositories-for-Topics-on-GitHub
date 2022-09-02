@@ -12,3 +12,10 @@ This is a Python Script which gets details like repository name, username, stars
 <p>Repo Name,Username,Stars,Repo URL<br>
 three.js,mrdoob,69700,https://github.com/mrdoob/three.js<br>
 libgdx,libgdx,18300,https://github.com/libgdx/libgdx</p><br>
+# Libraries
+<ul>
+<li>BeautifulSoup</li>
+<li>Pandas</li>
+<li>os</li>
+<li>requests</li>
+</ul><br>
